@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=IListaDuplamenteLigadaCircular
+comment0.text=\r\n\ @author\ Julio\ Arakaki\r\n\ @version\ 20190520\r\n
+comment1.params=
+comment1.target=No\ getInicio()
+comment10.params=chave
+comment10.target=java.lang.Object\ remover(long)
+comment11.params=
+comment11.target=java.lang.String\ toStringDoFim()
+comment2.params=
+comment2.target=No\ getFim()
+comment3.params=
+comment3.target=int\ getQtdNos()
+comment4.params=
+comment4.target=boolean\ estaVazia()
+comment5.params=novo
+comment5.target=void\ inserirInicio(java.lang.Object)
+comment6.params=novo
+comment6.target=void\ inserirFim(java.lang.Object)
+comment7.params=chave\ novo
+comment7.target=boolean\ inserirApos(long,\ java.lang.Object)
+comment8.params=
+comment8.target=java.lang.Object\ removerInicio()
+comment9.params=
+comment9.target=java.lang.Object\ removerFim()
+numComments=12
